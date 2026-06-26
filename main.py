@@ -112,7 +112,7 @@ async def send_welcome(message, name: str):
         f"⚔️ Chào mừng <b>{name}</b> đến với <b>LQGift</b>!\n\n"
         f"🎁 Nơi phát <b>acc Liên Quân miễn phí</b> dành cho cộng đồng.\n\n"
         f"📌 <b>Cách nhận acc:</b>\n"
-        f"  • Liên hệ <a href='https://t.me/Moew_Lover'>@Moew_Lover</a> để được cấp lượt\n"
+        f"  • Làm nhiệm vụ nhận lượt lấy acc</b>\n"
         f"  • Mở Mini App và nhấn <b>Nhận Acc Ngay</b>\n"
         f"  • Đăng nhập Liên Quân và tận hưởng! 🎮\n\n"
         f"👇 Nhấn nút bên dưới để mở app:"
